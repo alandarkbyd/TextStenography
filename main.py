@@ -49,7 +49,7 @@ def decode():
 		starting += 8
 	print()
 
-print(colored(text2art('Stenography', 'smallcaps2'), 'green'))
+print(colored(text2art('StegMech'), 'green'))
 choice = input("""1. Encode
 2. Decode
 Enter your choice: """).strip()
